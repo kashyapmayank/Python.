@@ -1,0 +1,1 @@
+links= re.findall(r'[https://instagram.fdel1-2.fna.fbcdn.net/vp/][A-Z]*[0-9]*[.,/_-]*[a-z]*',text)
